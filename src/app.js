@@ -84,6 +84,11 @@ const menusList = [
     component:BigData
   },
   {
+    name:'13_海量数据-2',
+    path:'/bigData-2',
+    component:VirtualList
+  },
+  {
     name:'14_细节处理',
     path:'/details',
     component:Details
